@@ -1,0 +1,8 @@
+*.py[cod]
+d
+okss
+docker-compose.yaml
+docer-compose.yaml
+log/
+resources/products.json
+

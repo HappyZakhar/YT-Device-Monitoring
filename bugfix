@@ -1,1 +1,2 @@
 moi += 1
+print(moi)

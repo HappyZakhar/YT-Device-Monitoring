@@ -1,0 +1,18 @@
+*.py[cod]
+d
+okss
+docker-compose.yaml
+docer-compose.yaml
+log/
+<<<<<<< HEAD
+docer-compose.yaml
+resources/products.json
+docker-compose.yaml
+q
+p
+=======
+resources/products.json
+q
+p
+
+>>>>>>> new-api

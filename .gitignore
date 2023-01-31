@@ -1,0 +1,7 @@
+*.py[cod]
+log/
+d
+okss
+oksss
+docker-compose.yaml
+docer-compose.yaml
